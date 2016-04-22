@@ -1,4 +1,4 @@
-I# hubot-boubou
+# hubot-boubou
 
 Make hubot response 寶寶 style
 
