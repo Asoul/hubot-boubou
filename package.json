@@ -1,7 +1,7 @@
 {
   "name": "hubot-boubou",
   "description": "Make hubot response 寶寶 style",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "author": "Asoul Yang <azx754@gmail.com>",
   "license": "MIT",
   "keywords": [
